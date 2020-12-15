@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Shrikumaran Vijayan, and I am a solution/application architect having vast expertise in building enterprise grade application built on top of Java and related framework.
+
 <!--
 **shrikumaran-vijayan/shrikumaran-vijayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
